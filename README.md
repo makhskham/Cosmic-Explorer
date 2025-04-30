@@ -2,37 +2,51 @@
 *A 3D Java Space Adventure*  
 
 [![YouTube Demo](https://img.shields.io/badge/YouTube-Demo-red)](https://www.youtube.com/watch?v=8HnaP_dmnYU)
+
 [![Behind the Scenes](https://img.shields.io/badge/Website-Behind_the_Scenes-blue)](https://cosmicexplorer2800.my.canva.site/)
-[![Report] (docs/Cosmic Explorer_Report.pdf)
+
+[![Report PDF](https://img.shields.io/badge/Download-Report-green)](docs/Cosmic%20Explorer_Report.pdf)
 
 ![Demo GIF](assets/spacegif1.gif) 
+*Delta spacecraft cockpit with solar system view*
 
 ## 🌌 About  
-**Cosmic Explorer** is an immersive 3D space adventure developed for COMP2800 at BCIT. The game takes players on a journey through a meticulously crafted solar system, where they:  
-- Pilot the **Delta spacecraft** with realistic cockpit controls  
-- Explore 10 unique planets with orbital physics  
+**Cosmic Explorer** is an immersive 3D space adventure developed for COMP2800 at BCIT. Players:  
+- Pilot the **Delta spacecraft** through a realistic solar system  
 - Discover a morphing black hole triggering a dimensional warp  
 - Transition to a whimsical 2D farm world with mutant animals  
+- Built with **Java3D** (solar system) + **LWJGL** (farm world)  
 
-Built with **Java3D** (solar system) and **LWJGL** (farm world), this project demonstrates advanced 3D rendering, agile development practices, and seamless engine integration.
+**Key Achievements**:  
+✔ Seamless Java3D → LWJGL engine transition  
+✔ Scrum-managed development (2 sprints)  
+✔ Blend of scientific and stylized 3D rendering  
 
-## ✨ Key Features  
-| System           | Highlights                                                                 |
-|------------------|---------------------------------------------------------------------------|
-| Solar System     | Procedural orbits with `TransformGroup`, realistic textures               |
-| Black Hole       | Morphing geometry via `Morph` class, Blender-rendered light tunnel       |
-| Farm World       | LWJGL terrain with blended textures, interactive 2D animals               |
-| Audio Design     | Spatial sound effects (JOAL) for immersion                                |
-| UI/UX            | Multiple navigation modes (mouse, keyboard, sliders)                      |  
 
 ![Demo BlackHole](assets/spacegif2.gif) 
-![Demo Farm](assets/spacegif3.gif) 
+*Delta spacecraft cockpit going through the blackhole sequence*
 
-## 🛠️ Technologies  
+
+## ✨ Features  
+| System           | Highlights                                                                 |
+|------------------|---------------------------------------------------------------------------|
+| Solar System     | Procedural orbits with `TransformGroup`, Saturn's 700-particle ring       |
+| Black Hole       | Morphing geometry, Blender-rendered light tunnel (50 PNG sequence)        |
+| Farm World       | Cartoon animals (Procreate → Blender Grease Pencil), terrain blending     |
+| UI/UX            | Triple navigation (mouse/keyboard/sliders), comic sans narration          |
+
+---
+
+![Demo Farm](assets/spacegif3.gif) 
+*Delta spacecraft cockpit arriving at the final farm location*
+
+## 🛠️ Tech Stack  
 - **Core**: Java 8, Java3D, LWJGL  
-- **Design**: Blender (3D models), Procreate (concept art)  
-- **Audio**: JOAL, VoiceMod  
-- **Management**: Scrum (Azure DevOps)  
+- **Design**: Blender 4.3.2 (models), Procreate (concept art)  
+- **Audio**: JOAL (spatial sound), VoiceMod (announcer)  
+- **Management**: Azure DevOps (Scrum) 
+
+---
 
 ## 📦 Installation  
 1. **Requirements**:  
@@ -44,4 +58,21 @@ Built with **Java3D** (solar system) and **LWJGL** (farm world), this project de
    ```bash
    git clone https://github.com/your-username/Cosmic-Explorer.git
    cd Cosmic-Explorer
-   ./gradlew run # or use included IDE configs
+   ./gradlew run # or use included IDE configs and import as Maven project in IDE
+
+---
+   ## 🎥 Media Showcase
+**Video Demo**  
+   https://www.youtube.com/watch?v=8HnaP_dmnYU
+   *Full gameplay walkthrough (1:45 min)*
+   
+**Behind the Scenes**  
+Explore our interactive development website presentation
+https://cosmicexplorer2800.my.canva.site/
+   - Blender → Java3D pipeline
+   - Scrum sprint retrospectives
+   - Concept art revolution
+---
+
+   
+   
