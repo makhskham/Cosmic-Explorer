@@ -1,0 +1,1 @@
+A 3D Java space adventure featuring planetary exploration, black hole physics, and dimensional transitions. Built with Java3D and LWJGL using Scrum methodology.
