@@ -64,10 +64,12 @@
    ## 🎥 Media Showcase
 **Video Demo**  
    https://www.youtube.com/watch?v=8HnaP_dmnYU
+   
    *Full gameplay walkthrough (1:45 min)*
    
 **Behind the Scenes**  
 Explore our interactive development website presentation
+
 https://cosmicexplorer2800.my.canva.site/
    - Blender → Java3D pipeline
    - Scrum sprint retrospectives
