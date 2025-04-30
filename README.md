@@ -9,8 +9,7 @@ A first-person 3D space exploration game where players:
 - Transition to a 2D cartoon farm dimension  
 - Built with **Java3D** (solar system) and **LWJGL** (farm world)  
 
-![Demo BlackHole](assets/spacegif2.gif) 
-
+![Demo Farm](assets/spacegif3.gif) 
 
 
 ## 🔧 Technologies  
