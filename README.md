@@ -9,6 +9,9 @@ A first-person 3D space exploration game where players:
 - Transition to a 2D cartoon farm dimension  
 - Built with **Java3D** (solar system) and **LWJGL** (farm world)  
 
+![Demo GIF](assets/spacegif2.gif) 
+![Demo GIF](assets/spacegif3.gif) 
+
 ## 🔧 Technologies  
 - **Core**: Java 8, Java3D, LWJGL  
 - **Design**: Blender (3D models), Photoshop (textures)  
