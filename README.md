@@ -1,6 +1,6 @@
 # 🚀 Cosmic Explorer  
 
-![Demo GIF](demo.gif) 
+![Demo GIF](assets/spacegif1.gif) 
 
 ## 🌌 About  
 A first-person 3D space exploration game where players:  
