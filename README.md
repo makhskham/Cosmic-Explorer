@@ -10,6 +10,8 @@ A first-person 3D space exploration game where players:
 - Built with **Java3D** (solar system) and **LWJGL** (farm world)  
 
 ![Demo GIF](assets/spacegif2.gif) 
+
+
 ![Demo GIF](assets/spacegif3.gif) 
 
 ## 🔧 Technologies  
