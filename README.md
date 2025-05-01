@@ -103,7 +103,7 @@ Cosmic-Explorer/
 
 ## 📄 Documentation
 
-- **Full Technical Report** (72 pages)
+- **Full Technical Report** (35 pages)
   - **Section 3**: Class diagrams & implementation
   - **Appendix A**: Complete backlog items
   - **Appendix B**: Team contributions
