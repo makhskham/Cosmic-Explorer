@@ -84,15 +84,17 @@ Explore our **[interactive development portal](https://cosmicexplorer2800.my.can
 
    ```
 Cosmic-Explorer/
-├── java3d/               # Solar system module
-│   ├── src/              # SSEngine, planet generation
-│   └── assets/           # Planet textures, cockpit.png
-├── lwjgl/                # Farm world module
-│   ├── entities/         # Camera, Light classes  
-│   └── textures/         # Terrain blend maps  
-├── docs/
-│   └── Cosmic Explorer_Report.pdf   # 72-page technical report  
-└── README.md             # This file
+├── src/             # Main Java source code
+├── assets/             # Game assets
+│ ├── blender/             # 3D model source files
+│ ├── screenshots/             # Promotional images
+│ └── sounds/             # Audio files
+├── docs/             # Documentation
+│ ├── Cosmic Explorer_Report.pdf
+│ └── scrum_screenshots/
+├── lib/             # Dependencies (Java3D, LWJGL)
+├── video/             # Demo videos
+└── README.md # This file
 ```
 
 ---
