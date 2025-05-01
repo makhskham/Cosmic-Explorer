@@ -26,6 +26,7 @@
 ![Demo BlackHole](assets/spacegif2.gif) 
 *Delta spacecraft cockpit going through the blackhole sequence*
 
+---
 
 ## ✨ Features  
 | System           | Highlights                                                                 |
@@ -39,6 +40,8 @@
 
 ![Demo Farm](assets/spacegif3.gif) 
 *Delta spacecraft cockpit arriving at the final farm location*
+
+---
 
 ## 🛠️ Tech Stack  
 - **Core**: Java 8, Java3D, LWJGL  
@@ -87,7 +90,7 @@ Explore our **[interactive development portal](https://cosmicexplorer2800.my.can
 │   └── textures/         # Terrain blend maps  
 ├── docs/
 │   └── Cosmic Explorer_Report.pdf   # 72-page technical report  
-└── README.md             # This file 
+└── README.md             # This file``` 
 
 ---
 
