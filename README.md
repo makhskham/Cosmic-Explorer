@@ -84,15 +84,17 @@ Explore our **[interactive development portal](https://cosmicexplorer2800.my.can
 
    ```
 Cosmic-Explorer/
-├── src/             # Main Java source code
-├── assets/             # Game assets
-│ ├── blender/             # 3D model source files
-│ ├── screenshots/             # Promotional images
-│ └── sounds/             # Audio files
+├── src/                      # Main Java source code
+├── assets/                   # Game assets
+│ └──  audio/                  # Audio files
+│ └──  cockpit/                # Cockpit files
+│ └── lightTunnel/            # Blackhole images
+│ └── res/                     #Farm image assets
 ├── docs/             # Documentation
 │ ├── Cosmic Explorer_Report.pdf
-│ └── scrum_screenshots/
 ├── lib/             # Dependencies (Java3D, LWJGL)
+├── Cosmic Explorer_Report.pdf
+
 ├── video/             # Demo videos
 └── README.md # This file
 ```
