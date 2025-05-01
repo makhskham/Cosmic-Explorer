@@ -81,7 +81,8 @@ Explore our **[interactive development portal](https://cosmicexplorer2800.my.can
 
    ## 📂 Repository Structure
 
-   ```Cosmic-Explorer/
+   ```
+Cosmic-Explorer/
 ├── java3d/               # Solar system module
 │   ├── src/              # SSEngine, planet generation
 │   └── assets/           # Planet textures, cockpit.png
@@ -90,7 +91,8 @@ Explore our **[interactive development portal](https://cosmicexplorer2800.my.can
 │   └── textures/         # Terrain blend maps  
 ├── docs/
 │   └── Cosmic Explorer_Report.pdf   # 72-page technical report  
-└── README.md             # This file``` 
+└── README.md             # This file
+```
 
 ---
 
