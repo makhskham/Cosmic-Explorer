@@ -11,7 +11,7 @@
 *Delta spacecraft cockpit with solar system view*
 
 ## 🌌 About  
-**Cosmic Explorer** is an immersive 3D space adventure developed for COMP2800 at BCIT. Players:  
+**Cosmic Explorer** is an immersive 3D space adventure developed for COMP2800 Software Development. Players:  
 - Pilot the **Delta spacecraft** through a realistic solar system  
 - Discover a morphing black hole triggering a dimensional warp  
 - Transition to a whimsical 2D farm world with mutant animals  
@@ -126,7 +126,7 @@ Cosmic-Explorer/
 | **Role**          | **Member**           | **Key Contributions** |
 |-------------------|----------------------|-----------------------|
 | Scrum Master      | Kulsum Khan          | Black hole physics, Azure DevOps management |
-| Product Owner     | Makhsuma Khamzaliyeva| Solar system rendering, UI design |
+| Product Owner     | Makhsuma Khamzaliyeva| Solar system rendering, UI design, Voice Actress |
 | 3D Artist         | Mahnoz Akhtari       | Blender models (cockpit, farm assets) |
 | Audio Engineer    | Simbarashe Mamvura   | JOAL sound implementation |
 | Farm Developer    | Hannah Riaz          | LWJGL terrain generation |
@@ -136,7 +136,7 @@ Cosmic-Explorer/
 ## 📜 License
 
 **MIT License**  
-Copyright © 2025 BCIT COMP2800 Team 4
+Copyright © 2025 COMP2800 Team 4
 
    
    
