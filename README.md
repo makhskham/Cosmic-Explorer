@@ -61,6 +61,7 @@
    ./gradlew run # or use included IDE configs and import as Maven project in IDE
 
 ---
+
    ## 🎥 Media Showcase
 **Video Demo**  
    https://www.youtube.com/watch?v=8HnaP_dmnYU
@@ -74,8 +75,41 @@ https://cosmicexplorer2800.my.canva.site/
    - Blender → Java3D pipeline
    - Scrum sprint retrospectives
    - Concept art revolution
+
 ---
+
    ## 📂 Repository Structure
-   
+
+   Cosmic-Explorer/
+├── java3d/               # Solar system module
+│   ├── src/              # SSEngine, planet generation
+│   └── assets/           # Planet textures, cockpit.png
+├── lwjgl/                # Farm world module
+│   ├── entities/         # Camera, Light classes  
+│   └── textures/         # Terrain blend maps  
+├── docs/
+│   └── Cosmic Explorer_Report.pdf   # 72-page technical report  
+└── README.md             # This file #
+
+---
+
+   ## 📄 Documentation
+-**Full Technical Report** (72 pages)
+   (docs/Cosmic%20Explorer_Report.pdf)
+      - Section 3: Class diagrams & implementation
+      - Appendix A: Complete backlog items
+
+---
+
+   ## 👥 Team Credits
+   | Role           | Member                                                                 |
+|------------------|---------------------------------------------------------------------------|
+| Product Owner     | Makhsuma Khamzaliyeva       |
+| Scrum Master       | Kulsum Khan        |
+| 3D Artist       | Mahnoz Akhtari     |
+| Special Effects and Audio            | Simbarashe Mamvura          |
+| Farm Creator       | Hamnah Riaz     |
+
+---
    
    
