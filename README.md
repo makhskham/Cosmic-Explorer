@@ -26,6 +26,7 @@
 ![Demo BlackHole](assets/spacegif2.gif) 
 *Delta spacecraft cockpit going through the blackhole sequence*
 
+
 ---
 
 ## ✨ Features  
@@ -36,10 +37,10 @@
 | Farm World       | Cartoon animals (Procreate → Blender Grease Pencil), terrain blending     |
 | UI/UX            | Triple navigation (mouse/keyboard/sliders), comic sans narration          |
 
----
 
 ![Demo Farm](assets/spacegif3.gif) 
 *Delta spacecraft cockpit arriving at the final farm location*
+
 
 ---
 
@@ -125,22 +126,6 @@ Cosmic-Explorer/
 | 3D Artist         | Mahnoz Akhtari       | Blender models (cockpit, farm assets) |
 | Audio Engineer    | Simbarashe Mamvura   | JOAL sound implementation |
 | Farm Developer    | Hannah Riaz          | LWJGL terrain generation |
-
----
-
-## 🤝 How to Contribute
-
-**For Developers**:
-1. Report bugs via [GitHub Issues](https://github.com/YourGitHubUsername/Cosmic-Explorer/issues)
-2. Fork the repository
-3. Create a feature branch (`git checkout -b feat/new-feature`)
-4. Commit changes (`git commit -m 'Add some feature'`)
-5. Push to branch (`git push origin feat/new-feature`)
-6. Open a **Pull Request**
-
-**For Designers**:
-- Submit Blender models as `.blend` files to `assets/models/`
-- Provide texture packs as 1024x1024 PNGs
 
 ---
 
