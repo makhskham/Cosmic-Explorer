@@ -82,21 +82,21 @@ Explore our **[interactive development portal](https://cosmicexplorer2800.my.can
 
    ## 📂 Repository Structure
 
-   ```
+```
 Cosmic-Explorer/
 ├── assets/
-│ ├── audio/             # .wav/.mp3 files (JOAL)
-│ ├── cockpit/             # Blender .blend files
-│ ├── lightTunnel/             # Black hole transition frames
-│ └── res/             # Farm world textures
+│   ├── audio/           # Sound files (e.g. blackHoleTransition.wav)
+│   ├── cockpit/         # Blender spacecraft files (.blend)
+│   ├── lightTunnel/     # Black hole PNG sequence (tunnel01-50.png)
+│   └── res/             # Farm world textures
 ├── docs/
-│ ├── Cosmic Explorer_Report.pdf
-│ └── README.md             # Mini technical guide
+│   ├── Cosmic Explorer_Report.pdf
+│   └── README.md        # Technical specs
 ├── lib/
-│ ├── jars/             # Java3D/LWJGL libraries
-│ └── natives/             # Native binaries
-├── src/             # Java source code
-└── README.md             # This file
+│   ├── jars/            # Java3D/LWJGL libraries
+│   └── natives/         # OS-specific binaries
+├── src/                 # Java source code
+└── README.md            # Project overview
 ```
 
 ---
