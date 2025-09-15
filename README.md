@@ -129,7 +129,7 @@ Cosmic-Explorer/
 | Product Owner     | Makhsuma Khamzaliyeva| Solar system rendering, UI design, Voice Actress |
 | 3D Artist         | Mahnoz Akhtari       | Blender models (cockpit, farm assets) |
 | Audio Engineer    | Simbarashe Mamvura   | JOAL sound implementation |
-| Farm Developer    | Hannah Riaz          | LWJGL terrain generation |
+| Farm Developer    | Hamnah Riaz          | LWJGL terrain generation |
 
 ---
 
@@ -140,3 +140,4 @@ Copyright © 2025 COMP2800 Team 4
 
    
    
+
